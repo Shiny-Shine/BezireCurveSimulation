@@ -1,3 +1,6 @@
+<img width="480" alt="image" src="https://github.com/user-attachments/assets/d61875f0-c0b1-4307-ba0a-0170bece8f27" />
+
+
 ## 여기에서 해 볼 수 있습니다.
 https://shiny-shine.itch.io/bezirecurvesimulator
 
